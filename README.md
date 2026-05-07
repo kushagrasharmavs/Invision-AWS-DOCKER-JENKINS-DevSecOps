@@ -4,7 +4,7 @@ A fully separated, production-grade **Flask + Vanilla JS** data visualization pl
 
 ---
 
-## Project Structure
+##
 
 ```
 invision/
