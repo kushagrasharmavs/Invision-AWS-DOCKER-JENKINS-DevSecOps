@@ -61,7 +61,7 @@ class UploadedFile(db.Model):
         return f"<UploadedFile {self.filename}>"
 
 
-# ─────────────────────────────────────────────────────────────────────────────
+# ─────────────────────────────────────────────────────────────────
 class SavedChart(db.Model):
     __tablename__ = "saved_charts"
 
