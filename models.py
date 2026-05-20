@@ -40,7 +40,7 @@ class User(UserMixin, db.Model):
         return f"<User {self.email}>"
 
 
-# ─────────────────────────────────────────────────────────────────────────────
+# ───────────────────────────────────────────────────────────
 class UploadedFile(db.Model):
     __tablename__ = "uploaded_files"
 
